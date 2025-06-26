@@ -37,7 +37,7 @@
 ### Clone the repository:
 
 ```
-git clone https://github.com/livepwn/hahasecure.git
+git clone https://github.com/0-d-a-y/hahasecure.git
 
 cd hahasecure
   ```
